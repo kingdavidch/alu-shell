@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "hi you there"
+echo "whats your name"
+read -r response
+echo "hi $response good evening"
+
